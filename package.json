@@ -1,0 +1,14 @@
+{
+  "name": "sugarlogweb",
+  "version": "1.0.0",
+  "description": "front end for sugarlog app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
